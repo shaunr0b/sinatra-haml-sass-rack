@@ -1,0 +1,7 @@
+git clone git@github.com:env/sinatra-haml-sass-rack.git
+cd sinatra-haml-sass-rack
+rvm 1.9.2
+bundle install
+ruby application.rb
+
+now, visit http://localhost:4567
